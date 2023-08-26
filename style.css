@@ -1,0 +1,45 @@
+body{
+    padding: 100px 200px;
+    background-image: url(image/welcome-bg.jpg);
+}
+.welcome-h{
+    	font-size: 50px;
+}
+.submit-area{
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 15px grey;
+    padding: 35px;
+    background-color: rgba(128, 128, 128, 0.147);
+}
+#transaction-area{
+    display: none;
+}   
+.deposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: orange;
+}
+.status{
+    margin: 0 20px;
+    color: white;
+    border-radius: 5px;
+    padding: 20px;
+}
+.submit-area2{
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 15px grey;
+    padding: 35px;
+    background-color: white;
+}
+.CS{
+    position: fixed;
+    right: 42%;
+    top: 95%;
+    font-weight: 500;
+}
